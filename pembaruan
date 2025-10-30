@@ -1,8 +1,9 @@
 {
-  "cheat": "off",
-  "notice": "CHEAT MAINTAINCE",
+  "cheat": "on",
+  "notice": "",
   "deviceid": "off"
 }
+
 
 
 
